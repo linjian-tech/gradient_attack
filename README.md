@@ -1,2 +1,13 @@
-# gradient_attack
-gradient attack on federated matrix
+
+
+## Prerequisites
+- Python 3.6+
+- PyTorch 1.0+
+
+## Training
+```
+# Start training with: 
+python main.py
+```
+
+
